@@ -4,8 +4,12 @@
 }
 .navStyle {
   min-height: 10vh;
-  max-width: 100%;
-  background-color: #2a313c;
+  width: 100%;
+  background-color: #1d222a;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
 }
 
 .navSection {
@@ -224,7 +228,7 @@
 
 /* footer section start */
 .footer-container {
-  background-color: #2a313c;
+  background-color: #1d222a;
   min-height: 15vh;
   display: flex;
   flex-direction: row;
