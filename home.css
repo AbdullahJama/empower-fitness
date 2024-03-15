@@ -338,7 +338,7 @@ body {
   align-items: center;
   justify-content: center;
   border: none;
-  padding: 20px;
+  padding: 5px;
 }
 .footer-items {
   font-size: 20px;
@@ -366,12 +366,16 @@ body {
   }
 
   /*footer start*/
+  .footer-icon-style {
+    font-size: 6vw;
+  }
   .footer-items {
-    font-size: 15px !important;
+    font-size: 4vw !important;
   }
   .cr-style {
-    font-size: 15px !important;
+    font-size: 3vw !important;
   }
+
   /*footer end*/
 
   /*animation style start*/

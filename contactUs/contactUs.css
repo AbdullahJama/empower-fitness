@@ -315,6 +315,8 @@ body {
   .button {
     width: 60vw !important;
     font-size: 7vw !important;
+    text-align: center !important;
+    font-size: 5vw !important;
   }
 
   .p-style-s2 {
