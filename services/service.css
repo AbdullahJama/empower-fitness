@@ -1,7 +1,12 @@
 /* nav section start */
+
 .navItems {
   color: orange;
 }
+.navItems:hover {
+  color: white;
+}
+
 .navStyle {
   min-height: 10vh;
   width: 100%;

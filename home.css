@@ -8,7 +8,10 @@ body {
 /*navbar section start */
 
 .navItems {
-  color: orange !important;
+  color: orange;
+}
+.navItems:hover {
+  color: white;
 }
 .navStyle {
   min-height: 10vh;
@@ -344,6 +347,7 @@ body {
 .cr-style {
   font-size: 20px;
 }
+
 /*footer styles end*/
 
 /*breakpoint adjustmrnt*/

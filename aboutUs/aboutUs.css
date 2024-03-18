@@ -2,6 +2,9 @@
 .navItems {
   color: orange;
 }
+.navItems:hover {
+  color: white;
+}
 
 .navContainer {
   min-height: 10vh;

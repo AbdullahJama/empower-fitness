@@ -8,6 +8,9 @@ body {
 .navItems {
   color: orange !important;
 }
+.navItems:hover {
+  color: white !important;
+}
 .navbar-container {
   min-height: 10vh;
   width: 100%;
