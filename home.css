@@ -7,8 +7,6 @@ body {
 
 /*navbar section start */
 
-.section {
-}
 .navItems {
   color: orange !important;
 }
@@ -66,16 +64,15 @@ body {
 }
 
 .button-element1 {
-  max-width: 250px;
-  min-height: 70px;
-  font-size: 30px;
+  max-width: auto;
+  font-size: 2vw;
   font-weight: bold;
   color: white;
   background-color: orange;
   outline: none;
   border-radius: 10px;
   border: none;
-  padding-top: 10px !important;
+  padding: 20px;
 }
 .button-element1:hover {
   background-color: rgb(182, 120, 6);
@@ -364,6 +361,13 @@ body {
 @media screen and (max-width: 600px) {
   .section1 {
     background-position: left;
+    padding: 0px;
+  }
+
+  .button-element1 {
+    max-width: auto;
+    font-size: 6vw;
+    padding: 15px;
   }
 
   /*footer start*/
