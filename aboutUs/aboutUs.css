@@ -259,7 +259,9 @@
   /*section 1 start*/
   .section1 {
     background-position: left;
-    min-height: 160%;
+    min-height: 70vh;
+    padding-top: 30px;
+    padding: 5px;
   }
 
   .heading-text-s1 {
